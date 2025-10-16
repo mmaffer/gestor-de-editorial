@@ -28,7 +28,7 @@ Sigue estos pasos para levantar el proyecto en tu máquina local.
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/editorialhub_api.git](https://github.com/TU_USUARIO/editorialhub_api.git)
+    git clone [https://github.com/mmaffer/editorialhub_api.git](https://github.com/mmaffer/editorialhub_api.git)
     cd editorialhub_api
     ```
 
