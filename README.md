@@ -169,4 +169,11 @@ Elimina un libro.
 * **Ejemplo con `curl`:**
     ```bash
     curl -X DELETE [http://127.0.0.1:8000/api/libros/1/](http://127.0.0.1:8000/api/libros/1/)
+
+## 🎥 Video de Demostración
+
+El siguiente video muestra la ejecución funcional del proyecto, incluyendo la creación, consulta, actualización y eliminación de registros dentro del sistema:
+
+🔗 [Ver video en YouTube](https://youtu.be/xUlLpzEuOsE)
+
     ```
